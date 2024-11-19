@@ -1,0 +1,5 @@
+# ignore All .hwp files
+*.hwp
+
+#ignore All files in ANY directory named temp
+temp/
